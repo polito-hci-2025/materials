@@ -5,9 +5,9 @@ Material for the _[Human Computer Interaction](https://github.com/polito-hci-202
 ## Slides
 
 * [Introduction to the course](./slides/00-intro.pdf)
-* Themes and projects overview
+* [Themes and projects overview](./slides/00-themes-projects-overview.pdf)
 * [What is HCI?](./slides/01-whatisHCI.pdf)
-* Needfinding
+* [Needfinding](./slides/02-needfinding.pdf)
   * Exercise
   * Exercise developed together
 * Analyzing and Synthetizing
@@ -28,7 +28,7 @@ Material for the _[Human Computer Interaction](https://github.com/polito-hci-202
 
 
 ## Assignments
-* Assignment 1 - Needfinding
+* [Assignment 1 - Needfinding](./assignments/A1-needfinding.pdf)
 * Assignment 2 - Storyboard and Low-fi Prototypes
 * Assignment 3 - Heuristic evaluation
 * Assignment 4 - Medium to High-fidelity Prototype
