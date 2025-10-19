@@ -13,8 +13,8 @@ Material for the _[Human Computer Interaction](https://github.com/polito-hci-202
 * [Analyzing and Synthetizing](./slides/03-analyzing.pdf)
   * [Exercise](./slides/03b-analyzing-exercise.pdf)
 * [Design Principles](./slides/04-design-principles.pdf)
-* Intro to Prototyping and Low-fi Prototypes
-  * Exercise on low-fi prototypes
+* [Intro to Prototyping and Low-fi Prototypes](./slides/05-low-fi-prototypes.pdf)
+  * [Exercise on low-fi prototypes](./slides/05b-low-fi-prototypes-exercise.pdf)
 * Visual Design
 * Evaluation Overview and Heuristic Evaluation
   * Exercise on heuristic evaluation
@@ -29,7 +29,7 @@ Material for the _[Human Computer Interaction](https://github.com/polito-hci-202
 
 ## Assignments
 * [Assignment 1 - Needfinding](./assignments/A1-needfinding.pdf)
-* Assignment 2 - Storyboard and Low-fi Prototypes
+* [Assignment 2 - Storyboard and Low-fi Prototypes](./assignments/A2-storyboard-paper-prototypes.pdf)
 * Assignment 3 - Heuristic evaluation
 * Assignment 4 - Medium to High-fidelity Prototype
 * Assignment 5 - High-fidelity Prototype
