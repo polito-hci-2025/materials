@@ -22,7 +22,7 @@ Material for the _[Human Computer Interaction](https://github.com/polito-hci-202
 * [Medium Fidelity Prototypes](./slides/09-mid-fi-prototypes.pdf)
 * [Interacting with AI](./slides/10-human-ai-interaction.pdf)
 * [High Fidelity Prototypes](./slides/11-hi-fi-prototypes.pdf)
-  * Options for Implementing (discussed in class)
+  * [Options for Implementing](./slides/11a-tech-choices.pdf) (discussed in class)
 * [Usability Testing](./slides/12-usability-testing.pdf)
   * [Exercises](./slides/12a-usability-testing-exercise.pdf)
 
